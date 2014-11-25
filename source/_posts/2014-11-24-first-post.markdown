@@ -7,7 +7,7 @@ categories:
 ---
 
 
-So yes... this is my first blog post. Let's just say Barnet inspired me. Stay Tuned for more posts!
+So yes... this is my first blog post. Let's just say Barney inspired me. Stay Tuned for more posts!
 
 <center><img src="https://lh4.googleusercontent.com/-6PTDTlEiQto/AAAAAAAAAAI/AAAAAAAAABI/xz-zqfhl7sA/photo.jpg"></center>
 
