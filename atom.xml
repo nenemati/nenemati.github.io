@@ -1,16 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Nema Nemati]]></title>
   <link href="http://nenemati.github.io/atom.xml" rel="self"/>
   <link href="http://nenemati.github.io/"/>
-  <updated>2014-11-24T15:06:03-06:00</updated>
+  <updated>2014-11-24T18:21:19-06:00</updated>
   <id>http://nenemati.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Nema Nemati]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    
+    <title type="html"><![CDATA[First Post, here it goes...]]></title>
+    <link href="http://nenemati.github.io/blog/2014/11/24/first-post/"/>
+    
+    <updated>2014-11-24T18:12:24-06:00</updated>
+    <id>http://nenemati.github.io/blog/2014/11/24/first-post</id>
+    
+    <content type="html"><![CDATA[<p>So yes&hellip; this is my first blog post. Let&rsquo;s just say Barnet inspired me. Stay Tuned for more posts!</p>
+
+<p><img src="https://lh4.googleusercontent.com/-6PTDTlEiQto/AAAAAAAAAAI/AAAAAAAAABI/xz-zqfhl7sA/photo.jpg"></p>
+]]></content>
+    
+  </entry>
   
 </feed>
