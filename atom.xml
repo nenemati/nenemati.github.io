@@ -4,7 +4,7 @@
   <title><![CDATA[Nema Nemati]]></title>
   <link href="http://nenemati.github.io/atom.xml" rel="self"/>
   <link href="http://nenemati.github.io/"/>
-  <updated>2014-11-24T18:21:19-06:00</updated>
+  <updated>2014-11-24T18:22:51-06:00</updated>
   <id>http://nenemati.github.io/</id>
   <author>
     <name><![CDATA[Nema Nemati]]></name>
@@ -23,7 +23,10 @@
     
     <content type="html"><![CDATA[<p>So yes&hellip; this is my first blog post. Let&rsquo;s just say Barnet inspired me. Stay Tuned for more posts!</p>
 
-<p><img src="https://lh4.googleusercontent.com/-6PTDTlEiQto/AAAAAAAAAAI/AAAAAAAAABI/xz-zqfhl7sA/photo.jpg"></p>
+<center><img src="https://lh4.googleusercontent.com/-6PTDTlEiQto/AAAAAAAAAAI/AAAAAAAAABI/xz-zqfhl7sA/photo.jpg"></center>
+
+
+
 ]]></content>
     
   </entry>
